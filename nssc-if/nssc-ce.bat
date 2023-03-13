@@ -31,4 +31,3 @@ taskkill /f /IM supporttool.exe /t
 taskkill /f /IM winst64.exe /t
 taskkill /f /IM WINSTALL.exe /t
 PowerShell.exe -ExecutionPolicy Unrestricted -command "%~dp0\nssc-esce.ps1"
-exit
