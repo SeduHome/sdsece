@@ -1,7 +1,6 @@
 @echo off
 cls
 color 11
-cls
 type %~dp0\nssc-if\nssc-sut.txt
 timeout /t 3 /nobreak >nul
 cls
