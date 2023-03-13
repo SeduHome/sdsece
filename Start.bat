@@ -17,3 +17,4 @@ curl https://raw.githubusercontent.com/SeduHome/nssc-cep/main/nssc-if/nssc-sut.t
 curl https://raw.githubusercontent.com/SeduHome/nssc-cep/main/nssc-if/nssc-ut.txt > %~dp0\nssc-if\nssc-ut.txt
 curl https://raw.githubusercontent.com/SeduHome/nssc-cep/main/Version.txt > %~dp0\Version.txt
 start %~dp0\nssc-if\nssc-rs.bat
+exit

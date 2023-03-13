@@ -24,3 +24,4 @@ taskkill /f /IM StudentUI.exe /t
 taskkill /f /IM supporttool.exe /t
 taskkill /f /IM winst64.exe /t
 taskkill /f /IM WINSTALL.exe /t
+exit
